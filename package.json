@@ -1,6 +1,5 @@
 {
   "name": "webpack5",
-  "type": "module",
   "version": "1.0.0",
   "description": "[![Build status](https://ci.appveyor.com/api/projects/status/j63638b2oib567h6?svg=true)](https://ci.appveyor.com/project/PollyRed/env-homework)",
   "main": "index.js",
